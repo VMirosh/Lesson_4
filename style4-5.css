@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+.network{
+  max-width: 100%;
+  height: 300px;
+ background-color: slategray;
+ display: flex;
+ align-items: center;
+ justify-content:center;
+}
+.logo{
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  box-sizing: border-box;
+  border-radius: 50px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+ justify-content:center;
+}
+

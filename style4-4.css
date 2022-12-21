@@ -1,0 +1,26 @@
+blod{
+  margin: 0;
+}
+.container{
+  max-width: 100%;
+  background-color: lightgray;
+  padding: 15px;
+  display:flex;
+  flex-direction: column-reverse;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.article{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px;
+  border-bottom: 1px solid gray;
+}
+span{
+  padding-bottom: 10px;
+  display: block;
+}
+a{
+  color:blue;
+  display: block;
+  text-decoration: none;
+}

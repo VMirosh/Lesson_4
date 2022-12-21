@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+}
+.conteiner{
+  max-width: 100%;
+  background-color: lightgray;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.conteiner img{
+
+  width: 200px;
+  height: 200px;
+  
+  /* width: 400px;
+  height: 200px; */
+
+  /* width: 200px;
+  height: 300px; */
+}

@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+.block {
+  max-width: 100%;
+  background-color: lightgrey;
+  display:flex;
+  box-sizing: border-box; 
+}
+ .text {
+ padding: 30px;
+ font-family: Arial, Helvetica, sans-serif;
+ }
